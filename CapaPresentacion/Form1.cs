@@ -22,7 +22,7 @@ namespace CapaPresentacion
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //Comentario
+            //Comentario // Comentrario 2
             Boolean mesj ;
             try
             {
@@ -42,6 +42,11 @@ namespace CapaPresentacion
 
                 MessageBox.Show(ex.Message);
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
