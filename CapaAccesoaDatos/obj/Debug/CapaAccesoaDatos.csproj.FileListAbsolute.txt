@@ -1,0 +1,6 @@
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.dll
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaAccesoaDatos\bin\Debug\CapaAccesoaDatos.pdb
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.csprojAssemblyReference.cache
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.csproj.CoreCompileInputs.cache
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.dll
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaAccesoaDatos\obj\Debug\CapaAccesoaDatos.pdb

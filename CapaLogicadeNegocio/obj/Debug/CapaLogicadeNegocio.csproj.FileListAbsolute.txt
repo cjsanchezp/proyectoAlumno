@@ -1,0 +1,18 @@
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.dll
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.pdb
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.dll
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.pdb
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csprojAssemblyReference.cache
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csproj.CoreCompileInputs.cache
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csproj.CopyComplete
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.dll
+G:\Mis Proyectos\Full Framework\NCapasTutorial\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.pdb
+C:\Users\Cristian Sanchez\Desktop\proyectoAlumno\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.dll
+C:\Users\Cristian Sanchez\Desktop\proyectoAlumno\CapaLogicadeNegocio\bin\Debug\CapaLogicadeNegocio.pdb
+C:\Users\Cristian Sanchez\Desktop\proyectoAlumno\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.dll
+C:\Users\Cristian Sanchez\Desktop\proyectoAlumno\CapaLogicadeNegocio\bin\Debug\CapaAccesoaDatos.pdb
+C:\Users\Cristian Sanchez\Desktop\proyectoAlumno\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csprojAssemblyReference.cache
+C:\Users\Cristian Sanchez\Desktop\proyectoAlumno\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Sanchez\Desktop\proyectoAlumno\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.csproj.CopyComplete
+C:\Users\Cristian Sanchez\Desktop\proyectoAlumno\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.dll
+C:\Users\Cristian Sanchez\Desktop\proyectoAlumno\CapaLogicadeNegocio\obj\Debug\CapaLogicadeNegocio.pdb
